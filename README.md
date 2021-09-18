@@ -1,2 +1,2 @@
 # Labb_1
-välkommen till min första labb! 
+print = ("välkommen till min första labb!") 
